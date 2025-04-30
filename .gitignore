@@ -1,0 +1,66 @@
+# ===============================
+# FLUTTER (Web App Frontend)
+# ===============================
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.melos_tool/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Flutter metadata
+.metadata
+
+
+
+# ===============================
+# PYTHON / FLASK (Backend)
+# ===============================
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtualenv
+venv/
+.env/
+.env.bak/
+.envrc
+*.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Flask-specific
+instance/
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# ===============================
+# General
+# ===============================
+# macOS and Windows system files
+Icon?
+ehthumbs.db
+Desktop.ini
+
+# Model
+flask_for_backend/VecTorium.h5
+
